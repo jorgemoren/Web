@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: #212F3C;
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    z-index: 1;
+}
+header {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Suranna', serif;
+}
+iframe {
+    margin-left: 25px;
+    margin-top: 60px;
+    position: absolute;
+    z-index: 2;
+}
+.form {
+    position: absolute;
+    z-index: 3;
+    margin-left: 700px;
+    margin-top: 90px;
+}
+legend {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Suranna', serif;
+}
+spam {
+    color: white;
+}
+.footer {
+    background-color:#17202A;
+    margin-top: 600px;
+    color: white;
+    text-align: center;
+    font-family: 'Suranna', serif;
+}

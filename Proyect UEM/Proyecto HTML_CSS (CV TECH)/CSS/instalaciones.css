@@ -1,0 +1,155 @@
+body{
+    background-color:  #212F3C;
+}
+h1{
+    color: white;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Suranna', serif; 
+    position: absolute;
+    z-index: 2;
+    margin-left: 500px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Suranna', serif;
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    
+    
+}
+.logo{
+    margin-top: 25px;
+    margin-left: 25px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.instalaciones1{
+    font-size: 24px;
+    padding-right: 25px;
+    
+    margin-top: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Mukta', sans-serif;
+    color: #F7FE2E;
+    text-align: justify;
+    border: 1px solid #212F3C;
+    height: 300px;
+    width: 1200px;
+    margin-left: 100px;
+    
+    
+    
+    
+}
+.inst1{
+    border: 5px solid #F5DA81;
+    height: 200px;
+    width: 260px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.instalaciones2{
+    font-size: 24px;
+    padding-right: 25px;
+    
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #F7FE2E;
+    text-align: justify;
+    border: 1px solid #212F3C;
+    height: 300px;
+    width: 1200px;
+    margin-left: 100px;
+    
+    
+    
+}
+.inst2{
+    border: 5px solid #F5DA81;
+    height: 200px;
+    width: 260px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.instalaciones3{
+    font-size: 24px;
+    padding-right: 25px;
+    
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #F7FE2E;
+    text-align: justify;
+    border: 1px solid #212F3C;
+    height: 300px;
+    width: 1200px;
+    margin-left: 100px;
+    
+    
+    
+}
+.inst3{
+    border: 5px solid #F5DA81;
+    height: 200px;
+    width: 260px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.instalaciones4{
+    font-size: 24px;
+    padding-right: 25px;
+    
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #F7FE2E;
+    text-align: justify;
+    border: 1px solid #212F3C;
+    height: 300px;
+    width: 1200px;
+    margin-left: 100px;
+    
+    
+    
+}
+.inst4{
+    border: 5px solid #F5DA81;
+    height: 200px;
+    width: 260px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}

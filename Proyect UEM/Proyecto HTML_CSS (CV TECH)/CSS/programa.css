@@ -1,0 +1,41 @@
+body {
+    background-color: #45E6EE;
+}
+.logo {
+    width:90px;
+    height:90px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+header {
+    font-family: 'Suranna', serif;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-left: 500px;
+    position: absolute;
+    z-index: 2;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    color:darkblue;
+}
+ul{
+    margin-left: 400px;
+    color: yellow;
+    
+}
+li{
+    
+    display: block;
+}
+.rojo{
+    color: red;
+}
+.verde{
+    color: green;
+}

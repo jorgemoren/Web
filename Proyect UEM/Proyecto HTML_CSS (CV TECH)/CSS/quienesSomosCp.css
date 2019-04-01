@@ -1,0 +1,40 @@
+body {
+    background-color: #45E6EE;
+}
+header{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    margin-left: 400px;
+    font-family: 'Suranna', serif;
+    position: absolute;
+    z-index: 1;
+}
+.logo {
+    margin-top: 10px;
+}
+.texto {
+    margin-top: 100px;
+    font-family:cursive;
+    text-align: justify;
+    color: black;
+    font-size: bold,20px;
+}
+.uno {
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+    float: right;
+}
+.social {
+    margin-top: 98px;
+    width: 100px;
+    margin-left: 600px;
+    font-weight: bold;
+    font-family: 'Suranna', serif;
+}
+.redes {
+    width: 40px;
+    height: 40px;
+    margin-top: 25px;
+}

@@ -1,0 +1,144 @@
+
+body{
+    background-color:  #212F3C;
+}
+.titulo {
+    color: white;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 20px;
+    position: absolute;
+    z-index: 1;
+    
+}
+.logo {
+    position: absolute;
+    z-index: 2;
+}
+h3{
+     color: white;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Suranna', serif;
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.clientesitos{
+    border: 1px solid #212F3C;
+    height: 550px;
+    width: 800px;
+    margin-left: 300px;
+}
+.cliente1{
+    font-size: 24px;
+    padding-right: 25px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #F7FE2E;
+    text-align: justify;
+    
+    
+    
+    
+}
+.cli1{
+    border: 5px solid #F5DA81;
+    height: 140px;
+    width: 200px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.cliente2{
+    font-size: 24px;
+    padding-right: 25px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+     color: #F7FE2E;
+    text-align: justify;
+    
+    
+    
+}
+.cli2{
+    border: 5px solid #F5DA81;
+    height: 120px;
+    width: 200px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.empleaditos{
+    border: 1px solid #212F3C;
+    height: 550px;
+    width: 800px;
+    margin-left: 300px;
+}
+.empleado1{
+    font-size: 24px;
+    padding-right: 25px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #64FE2E;
+    text-align: justify;
+    
+    
+    
+}
+.emp1{
+    border: 5px solid #40FF00;
+    height: 140px;
+    width: 200px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    
+   
+}
+.empleado2{
+    font-size: 24px;
+    padding-right: 25px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    color: #64FE2E;
+    text-align: justify;
+    
+    
+    
+}
+.emp2{
+    border: 5px solid #40FF00;
+    height: 140px;
+    width: 200px;
+    float: left;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}

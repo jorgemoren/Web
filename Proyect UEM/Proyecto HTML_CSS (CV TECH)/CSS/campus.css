@@ -1,0 +1,94 @@
+body {
+    background-color: #45E6EE;
+}
+
+.logo {
+    width:550px;
+    height:450px;
+    margin-top: 30px;
+    margin-left: 300px;
+    position: absolute;
+    z-index: 2;
+}
+header {
+    font-family: 'Suranna', serif;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.nap {
+    margin-left:950px;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 1;
+}
+.nap ul li ul {
+    display: block;
+
+}
+ul {
+    list-style: none;
+}
+.nap li a {
+    color:white;
+    font-family:'Suranna', serif;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 15px 15px;
+    display: block;
+} 
+.nap > li {
+    float: left;
+    display: block;
+}
+.nap li ul {
+    display: none;
+    position: absolute;
+    min-width: 18px;
+}
+.nap li:hover > ul {
+    float: right;
+    position: relative;
+    display: block;
+}
+.nap li ul li {
+    position: relative;
+}
+.nap li ul li:hover {
+    position: relative;
+    background-color: #00897B;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin:0px;
+    padding:0px;
+}
+
+.redes1 {
+    width: 50px;
+    margin-left: 150px;
+    margin-right: -300px;
+    margin-bottom: 50px;
+    position: absolute;
+    z-index: 3;
+    
+}
+.redes2 {
+    width: 50px;
+    margin-left: 240px;
+    margin-right: -300px;
+    margin-bottom: 50px;
+    position: absolute;
+    z-index: 3;
+}
+.galer {
+    margin-top: 450px;
+    margin-left: 160px;
+}
+.fotos {
+    width: 450px;
+    height: 300px;
+}
+
+
